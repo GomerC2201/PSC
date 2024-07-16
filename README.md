@@ -1,2 +1,2 @@
-# CMSD
-CMSD Data Analysis Assessment
+# Public School Characteristics
+Data cleaning process for Public School Characteristics project
